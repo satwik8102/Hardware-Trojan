@@ -46,6 +46,4 @@ There is also a mode that runs all four algorithms consecutively, and produces a
 
 ```python3 main.py comparative```
 
-## Authors
 
-* **Konstantinos Kalais**, *Developer* 
